@@ -1,3 +1,3 @@
-module rrees.dev/gobatteries
+module github.com/rrees/gobatteries
 
 go 1.19
